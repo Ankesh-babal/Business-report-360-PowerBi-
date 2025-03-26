@@ -240,3 +240,55 @@ Poor data modeling affects the overall performance of the report.
 Following Good practices of data modeling is a must. Refer to this page to get to know the good practices of https://addendanalytics.com/blog/data-modelling-best-practices/
 
 In this project, we have followed the Snowfall data modeling method.
+![data model](https://github.com/user-attachments/assets/456cd2cc-0824-4507-b94a-d6adc697a199)
+
+## Dashboard designing
+Based on the mock-ups received as a requirement, the team will start designing the visuals and create measurements as and when required
+
+## Home view
+In-Home view, all the views button will be available. Users will land on a specific view page by clicking the button
+
+Info
+
+Finance View
+
+Sales View
+
+Marketing View
+
+Supply chain View
+
+Executive View
+
+Products
+
+Support
+
+Overall Report
+![overall](https://github.com/user-attachments/assets/6e33f59f-fdaf-4fb2-b1ab-58722bba741c)
+
+## Home Page
+![Home page](https://github.com/user-attachments/assets/d155b9b2-6d62-489d-b41d-339b16db8cd9)
+
+
+## Finance View
+![Finance](https://github.com/user-attachments/assets/d84957f3-fec3-4b2e-a148-9892d4cb81f8)
+
+
+## Sales View
+![Sales](https://github.com/user-attachments/assets/64d39040-d915-4ba5-8781-b0ae113630f2)
+
+
+## Marketing View
+![Marketing](https://github.com/user-attachments/assets/0da1dc17-25a2-4e3a-bd1f-8d99ce4f0801)
+
+
+## Supply chain View
+![Supply Chain](https://github.com/user-attachments/assets/adadfd7c-4a6c-43b2-bd02-9d0e0cbdc8d2)
+
+
+## Executive View
+![Executive View](https://github.com/user-attachments/assets/13456db3-76a7-4e2f-8c88-0365849df820)
+
+
+
