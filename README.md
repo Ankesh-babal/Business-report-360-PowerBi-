@@ -93,7 +93,7 @@ Recently the company has faced an unforeseen loss by opening a store in America 
 
 Project kick-off session, where you should get clear of what and why this project is and all other questions you have with regards to the project
 
-##Questions to ask before starting with the dashboard
+## Questions to ask before starting with the dashboard
 What is the objective of building this PowerBi dashboard?
 
 In what terms the success of this project will be measured?
