@@ -267,7 +267,7 @@ Support
 Overall Report
 ![overall](https://github.com/user-attachments/assets/6e33f59f-fdaf-4fb2-b1ab-58722bba741c)
 
-## Home Page
+## Information Page
 ![Home page](https://github.com/user-attachments/assets/d155b9b2-6d62-489d-b41d-339b16db8cd9)
 
 
